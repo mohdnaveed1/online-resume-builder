@@ -1,0 +1,10 @@
+Description:
+This project is an online resume builder that allows users to create and manage their resumes through a web application. It provides an intuitive interface for users to input their information, select templates, and generate professional-looking resumes.
+
+Features:
+
+User Authentication: Secure user registration and login functionality.
+Resume Creation: Form-based interface to input personal and professional information.
+Template Selection: Choose from a variety of resume templates.
+Customization: Edit and customize resume content and formatting.
+PDF Export: Generate and download resumes in PDF format.
